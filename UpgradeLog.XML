@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MMNLPTeam">
+</Property><Property Name="Solution File" Value="D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\MMNLPTeam.sln">
+</Property><Property Name="User Options File" Value="D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\MMNLPTeam.suo">
+</Property><Property Name="Date" Value="Friday, July 09, 2010">
+</Property><Property Name="Time" Value="11:51 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MMNLPTeam.sln" Description="File successfully backed up as D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\Backup\MMNLPTeam.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MMNLPTeam.suo" Description="File successfully backed up as D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\Backup\MMNLPTeam.suo">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="MMNLPTeam\SyllableCluster.csproj" Description="Project file successfully backed up as D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\Backup\MMNLPTeam\SyllableCluster.csproj">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="MMNLPTeam\SyllableCluster.cs" Description="File successfully backed up as D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\Backup\MMNLPTeam\SyllableCluster.cs">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="MMNLPTeam\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\Backup\MMNLPTeam\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="MMNLPTeam\SyllableCluster.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SyllableCluster" Source="MMNLPTeam\SyllableCluster.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MMNLPTeam.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MMNLPTeam.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="MMNLPTeam\SyllableCluster.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
