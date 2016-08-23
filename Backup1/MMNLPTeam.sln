@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSyllableBreaker", "TestSyllableBreaker\TestSyllableBreaker.csproj", "{4AA74E32-D2E2-47D2-ABC7-BAD421D06A67}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BurmeseSyllableBreakSetup", "BurmeseSyllableBreakSetup\BurmeseSyllableBreakSetup.vdproj", "{3F512AAF-D981-4A07-8063-3B5571922291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA74E32-D2E2-47D2-ABC7-BAD421D06A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA74E32-D2E2-47D2-ABC7-BAD421D06A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA74E32-D2E2-47D2-ABC7-BAD421D06A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA74E32-D2E2-47D2-ABC7-BAD421D06A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F512AAF-D981-4A07-8063-3B5571922291}.Debug|Any CPU.ActiveCfg = Debug
+		{3F512AAF-D981-4A07-8063-3B5571922291}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

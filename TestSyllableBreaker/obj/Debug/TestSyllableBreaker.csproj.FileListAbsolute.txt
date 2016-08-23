@@ -1,0 +1,43 @@
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\obj\Debug\ResolveAssemblyReference.cache
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.Form1.resources
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.Properties.Resources.resources
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.csproj.GenerateResource.Cache
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\bin\Debug\TestSyllableBreaker.exe
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\bin\Debug\TestSyllableBreaker.pdb
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\bin\Debug\SyllableCluster.dll
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\bin\Debug\SyllableCluster.pdb
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.exe
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\SyllableBreak(from  kkz)\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.exe
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\SyllableBreak(from  kkz)\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.exe
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.Form1.resources
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\bin\Debug\TestSyllableBreaker.exe
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\bin\Debug\TestSyllableBreaker.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\bin\Debug\SyllableCluster.dll
+C:\Documents and Settings\ag\Desktop\JustWork\TestingSyllableBreaker\MMNLPTeam\TestSyllableBreaker\bin\Debug\SyllableCluster.pdb
+E:\KKhant\I worked\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.exe
+E:\KKhant\I worked\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.pdb
+E:\KKhant\I worked\MMNLPTeam\TestSyllableBreaker\bin\Debug\TestSyllableBreaker.exe
+E:\KKhant\I worked\MMNLPTeam\TestSyllableBreaker\bin\Debug\TestSyllableBreaker.pdb
+E:\KKhant\I worked\MMNLPTeam\TestSyllableBreaker\obj\Debug\ResolveAssemblyReference.cache
+E:\KKhant\I worked\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.Form1.resources
+E:\KKhant\I worked\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.Properties.Resources.resources
+E:\KKhant\I worked\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.csproj.GenerateResource.Cache
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.exe
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.pdb
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\bin\Debug\TestSyllableBreaker.exe
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\bin\Debug\TestSyllableBreaker.pdb
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.Form1.resources
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.Properties.Resources.resources
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\obj\Debug\ResGen.read.1.tlog
+C:\MyProjects\MyCode\MMNLPTeam\TestSyllableBreaker\obj\Debug\ResGen.write.1.tlog
+D:\NLP Projects\SyllableBreak\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.exe
+D:\NLP Projects\SyllableBreak\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.pdb
+E:\Natural Language Processing(NLP)\SyllableBreak\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.exe
+E:\Natural Language Processing(NLP)\SyllableBreak\TestSyllableBreaker\obj\Debug\TestSyllableBreaker.pdb
