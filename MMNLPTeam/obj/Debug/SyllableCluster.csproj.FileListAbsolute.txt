@@ -1,0 +1,15 @@
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\MMNLPTeam\bin\Debug\SyllableCluster.dll
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\MMNLPTeam\bin\Debug\SyllableCluster.pdb
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\MMNLPTeam\obj\Debug\ResolveAssemblyReference.cache
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\MMNLPTeam\obj\Debug\SyllableCluster.dll
+D:\Resourcex\Researches Of Seniorx\The` The` Aye\SyllableBreak\MMNLPTeam\MMNLPTeam\obj\Debug\SyllableCluster.pdb
+E:\KKhant\I worked\MMNLPTeam\MMNLPTeam\obj\Debug\ResolveAssemblyReference.cache
+E:\KKhant\I worked\MMNLPTeam\MMNLPTeam\bin\Debug\SyllableCluster.dll
+E:\KKhant\I worked\MMNLPTeam\MMNLPTeam\bin\Debug\SyllableCluster.pdb
+E:\KKhant\I worked\MMNLPTeam\MMNLPTeam\obj\Debug\SyllableCluster.dll
+E:\KKhant\I worked\MMNLPTeam\MMNLPTeam\obj\Debug\SyllableCluster.pdb
+C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\bin\Debug\SyllableCluster.dll
+C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\bin\Debug\SyllableCluster.pdb
+C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\obj\Debug\SyllableCluster.dll
+C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\obj\Debug\SyllableCluster.pdb

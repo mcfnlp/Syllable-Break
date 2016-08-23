@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SyllableCluster">
+</Property><Property Name="Solution File" Value="C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\SyllableCluster.sln">
+</Property><Property Name="Date" Value="Tuesday, September 13, 2011">
+</Property><Property Name="Time" Value="10:46:01 AM">
+</Property></Properties><Event ErrorLevel="0" Project="SyllableCluster" Source="SyllableCluster.csproj" Description="Project file successfully backed up as C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\Backup\SyllableCluster.csproj">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="SyllableCluster.cs" Description="File successfully backed up as C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\Backup\SyllableCluster.cs">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\MyProjects\MyCode\MMNLPTeam\MMNLPTeam\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="SyllableCluster.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SyllableCluster" Source="SyllableCluster.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SyllableCluster" Source="SyllableCluster.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

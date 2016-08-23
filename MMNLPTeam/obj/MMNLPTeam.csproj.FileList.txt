@@ -1,0 +1,5 @@
+bin\Debug\MMNLPTeam.dll
+bin\Debug\MMNLPTeam.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MMNLPTeam.dll
+obj\Debug\MMNLPTeam.pdb
